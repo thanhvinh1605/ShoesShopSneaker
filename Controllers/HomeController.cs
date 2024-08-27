@@ -18,7 +18,7 @@ namespace ShoesShopSneaker.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult ABC()
         {
             return View();
         }
